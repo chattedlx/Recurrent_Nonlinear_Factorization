@@ -1,2 +1,2 @@
 # Recurrent_Nonlinear_Factorization
-The code and datasets of RNF
+The code implementation and dataset used in article "A Recurrent Nonlinear Factorization of Tensors Model for Highly-Accurate Network Representation".
